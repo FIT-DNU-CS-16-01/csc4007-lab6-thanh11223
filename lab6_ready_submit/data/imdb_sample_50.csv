@@ -1,0 +1,6 @@
+review_id,review_text,gold_sentiment
+1,Amazing movie with great acting,positive
+2,Terrible plot and boring scenes,negative
+3,Good visuals but weak story,negative
+4,Excellent soundtrack and acting,positive
+5,Worst movie I have seen,negative

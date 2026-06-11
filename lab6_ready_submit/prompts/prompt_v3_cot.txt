@@ -1,0 +1,1 @@
+Find positive clues, negative clues, decide sentiment. Return JSON only.

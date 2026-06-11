@@ -1,0 +1,1 @@
+Use only review text. Return sentiment, evidence, confidence.

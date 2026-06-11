@@ -1,0 +1,1 @@
+Classify sentiment as positive or negative. Return JSON only.
